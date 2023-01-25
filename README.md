@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandoralarm&layout=compact&count_private=true&show_icons=true&theme=radical"/></td>
   </tr>
    <tr>
-    <td span="2" valign="top"><img src="http://github-readme-streak-stats.herokuapp.com?user=pandoralarm&theme=radical&border_radius=12"/></td>
+    <td colspan="2" valign="top"><img src="http://github-readme-streak-stats.herokuapp.com?user=pandoralarm&theme=radical&border_radius=12"/></td>
   </tr>
     <tr>
     <td valign="top"><img src="https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy"/></td>
