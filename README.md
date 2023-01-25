@@ -1,3 +1,5 @@
+<div style="text-align: center">
+
 ### Hi there 👋
  
 Here are some ideas to get you started:
@@ -17,3 +19,5 @@ Here are some ideas to get you started:
  <img style="width: 100%" src="http://github-readme-streak-stats.herokuapp.com?user=pandoralarm&theme=radical&border_radius=12"/> 
  <img style="width: 100%" src="https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy"/> 
 </div>
+
+ </div>
