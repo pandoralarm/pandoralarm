@@ -1,16 +1,25 @@
 ### Hi there 👋
-
-<!--
-**pandoralarm/pandoralarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at PT. Macra Teknologi Indonesia
+<!-- 🌱 I’m currently learning ... -->
+- 👯 I’m looking to collaborate on Vue projects
+- 🤔 I’m looking for help with React Native or Mobile Development in General
+<!-- - 💬 Ask me about -->
+- 📫 How to reach me: alan@macra.co.id
+- ⚡ Fun fact: Bears, Beets, Battlestar Galactica
+
+
+<p align="center">
+  
+[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandoralarm&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandoralarm&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pandoralarm&theme=radical&border_radius=12)](https://git.io/streak-stats)
+
+![Spotify Recents](https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy)
+  
+</p>
