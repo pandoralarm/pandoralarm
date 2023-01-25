@@ -56,3 +56,10 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pandoralarm.pandoralarm&"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy&width=100%" height="150" alt="stats graph"  />
+ 
+</div> 
