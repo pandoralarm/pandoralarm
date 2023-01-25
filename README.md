@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Bears, Beets, Battlestar Galactica
 
 
-<div style="display: flex; justify-content: center">
- <img style="height: 100px; width: 300px" src="https://github-readme-stats.vercel.app/api?username=pandoralarm&count_private=true&show_icons=true&theme=radical"/> 
- <img style="height: 100px; width: 300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandoralarm&layout=compact&count_private=true&show_icons=true&theme=radical"/>
- <img style="width: 600px" src="http://github-readme-streak-stats.herokuapp.com?user=pandoralarm&theme=radical&border_radius=12"/> 
- <img style="width: 600px" src="https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy"/> 
+<div style="display: flex; justify-content: center; width: 800px">
+ <img style="height: 200px; width: 50%" src="https://github-readme-stats.vercel.app/api?username=pandoralarm&count_private=true&show_icons=true&theme=radical"/> 
+ <img style="height: 200px; width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandoralarm&layout=compact&count_private=true&show_icons=true&theme=radical"/>
+ <img style="width: 100%" src="http://github-readme-streak-stats.herokuapp.com?user=pandoralarm&theme=radical&border_radius=12"/> 
+ <img style="width: 100%" src="https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy"/> 
 </div>
