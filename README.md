@@ -15,5 +15,5 @@ Here are some ideas to get you started:
  <img style="height: 200px; width: 400px" src="https://github-readme-stats.vercel.app/api?username=pandoralarm&count_private=true&show_icons=true&theme=radical"/> 
  <img style="height: 200px; width: 400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandoralarm&layout=compact&count_private=true&show_icons=true&theme=radical"/>
  <img style="width: 800px" src="http://github-readme-streak-stats.herokuapp.com?user=pandoralarm&theme=radical&border_radius=12"/> 
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy"/> 
+ <img style="width: 800px" src="https://spotify-recently-played-readme.vercel.app/api?user=217z2yhhjgvsfltv7klzp4zmy"/> 
 </div>
